@@ -1,3 +1,3 @@
 # PyBer_Analysis
 
-![pyber_summary](pyber_summary.png)
+![Pyber_fare_summary](Pyber_fare_summary.png)
