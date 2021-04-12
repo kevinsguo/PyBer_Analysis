@@ -17,3 +17,6 @@ The following graph shows a total fare amount from January 2019 to April 2019. U
 ![PyBer_fare_summary](PyBer_fare_summary.png)
 
 **Figure 2** Fare Summary 
+
+## Summary
+To addres the disparities among the city types, PyBer could increase the number of drivers for the rural areas. From the provided data, there are more drivers in urban areas than suburban and rural. PyBer could either attempt to increase the driver count in rural area, or spread out urban drivers to more suburban and rural areas. 
