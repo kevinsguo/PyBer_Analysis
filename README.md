@@ -6,4 +6,6 @@ This challenge analyzes the rideshare data and compare the total number of rides
 
 ## Results
 
+
+![PyBer_analysis_summary](PyBer_analysis_summary.png)
 ![PyBer_fare_summary](PyBer_fare_summary.png)
